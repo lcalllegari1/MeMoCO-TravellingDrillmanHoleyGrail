@@ -1,0 +1,812 @@
+--- # CPLEX n10 RANDOM BENCHMARK
+idx: 0
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n10/"
+  n_instances: 20
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 10
+--- # CPLEX n15 RANDOM BENCHMARK
+idx: 1
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n15/"
+  n_instances: 20
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 15
+--- # CPLEX n20 RANDOM BENCHMARK
+idx: 2
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n20/"
+  n_instances: 20
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 20
+--- # CPLEX n25 RANDOM BENCHMARK
+idx: 3
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n25/"
+  n_instances: 20
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 25
+--- # CPLEX n30 RANDOM BENCHMARK
+idx: 4
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n30/"
+  n_instances: 20
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 30
+--- # CPLEX n15 RANDOM BENCHMARK
+idx: 5
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n40/"
+  n_instances: 20
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 40
+--- # CPLEX n15 RANDOM BENCHMARK
+idx: 6
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n50/"
+  n_instances: 20
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 50
+--- # CPLEX n15 RANDOM BENCHMARK
+idx: 7
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n35/"
+  n_instances: 20
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 35
+--- # CPLEX n15 RANDOM BENCHMARK
+idx: 8
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n60/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 60
+--- # CPLEX n15 RANDOM BENCHMARK
+idx: 9
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n75/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 75
+--- # CPLEX n15 RANDOM BENCHMARK
+idx: 10
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n90/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 90
+--- # CPLEX n15 RANDOM BENCHMARK
+idx: 11
+
+metadata:
+  base_dir_path: "data/benchmark/boards/"
+  target_dir: "n100/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 100
+--- 
+idx: 12
+
+metadata:
+  base_dir_path: "data/benchmark/boards/structured"
+  target_dir: "n50/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: true
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 6
+  - type: line
+    params:
+      repeat: 1
+      n_holes: 3
+      spacing: 0.5
+      angle_deg: 45
+  - type: line
+    params:
+      repeat: 1
+      n_holes: 3
+      spacing: 0.5
+      angle_deg: 90
+  - type: line
+    params:
+      repeat: 1
+      n_holes: 4
+      spacing: 0.5
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 1
+      rows: 3
+      cols: 3
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 45
+  - type: grid
+    params:
+      repeat: 1
+      rows: 2
+      cols: 4
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 1
+      rows: 4
+      cols: 2
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 0
+--- 
+idx: 13
+
+metadata:
+  base_dir_path: "data/benchmark/boards/structured"
+  target_dir: "n100/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: true
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: grid
+    params:
+      repeat: 2
+      rows: 3
+      cols: 3
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 45
+  - type: grid
+    params:
+      repeat: 2
+      rows: 2
+      cols: 4
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 2
+      rows: 4
+      cols: 2
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 0
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 3
+      spacing: 0.5
+      angle_deg: 45
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 4
+      spacing: 0.5
+      angle_deg: 90
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 5
+      spacing: 0.5
+      angle_deg: 0
+  - type: rand
+    params:
+      n_holes: 17
+--- 
+idx: 14
+
+metadata:
+  base_dir_path: "data/benchmark/boards/structured"
+  target_dir: "n30/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: true
+    corners: true
+    center: true
+    edges: false
+
+components:
+  - type: rand
+    params:
+      n_holes: 2
+  - type: line
+    params:
+      repeat: 1
+      n_holes: 3
+      spacing: 0.5
+      angle_deg: 90
+  - type: line
+    params:
+      repeat: 1
+      n_holes: 4
+      spacing: 0.5
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 1
+      rows: 2
+      cols: 2
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 45
+  - type: grid
+    params:
+      repeat: 1
+      rows: 2
+      cols: 3
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 1
+      rows: 3
+      cols: 2
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 0
+--- 
+idx: 15
+
+metadata:
+  base_dir_path: "data/benchmark/boards/structured"
+  target_dir: "n75/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 10.0
+  height: 10.0
+  margin: 1.0
+  min_spacing: 0.5
+  mounting_holes:
+    enabled: true
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: grid
+    params:
+      repeat: 1
+      rows: 3
+      cols: 3
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 45
+  - type: grid
+    params:
+      repeat: 2
+      rows: 2
+      cols: 4
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 2
+      rows: 4
+      cols: 2
+      row_spacing: 0.5
+      col_spacing: 0.5
+      angle_deg: 0
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 3
+      spacing: 0.5
+      angle_deg: 45
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 3
+      spacing: 0.5
+      angle_deg: 90
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 4
+      spacing: 0.5
+      angle_deg: 0
+  - type: rand
+    params:
+      n_holes: 5
+--- 
+idx: 16
+
+metadata:
+  base_dir_path: "data/benchmark/boards/structured"
+  target_dir: "n150/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 100.0
+  height: 100.0
+  margin: 5.0
+  min_spacing: 1
+  mounting_holes:
+    enabled: true
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: grid
+    params:
+      repeat: 1
+      rows: 5
+      cols: 5
+      row_spacing: 3
+      col_spacing: 3
+      angle_deg: 45
+  - type: grid
+    params:
+      repeat: 1
+      rows: 3
+      cols: 3
+      row_spacing: 3
+      col_spacing: 3
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 2
+      rows: 4
+      cols: 2
+      row_spacing: 3
+      col_spacing: 3
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 2
+      rows: 2
+      cols: 4
+      row_spacing: 3
+      col_spacing: 3
+      angle_deg: 0
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 8
+      spacing: 3
+      angle_deg: 45
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 7
+      spacing: 3
+      angle_deg: 90
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 8
+      spacing: 3
+      angle_deg: 0
+  - type: rand
+    params:
+      n_holes: 29
+--- 
+idx: 17
+
+metadata:
+  base_dir_path: "data/benchmark/boards/structured"
+  target_dir: "n1000/"
+  n_instances: 10
+  unit: mm
+
+board:
+  width: 500.0
+  height: 500.0
+  margin: 5.0
+  min_spacing: 5
+  mounting_holes:
+    enabled: true
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: grid
+    params:
+      repeat: 13
+      rows: 5
+      cols: 5
+      row_spacing: 5
+      col_spacing: 5
+      angle_deg: 45
+  - type: grid
+    params:
+      repeat: 11
+      rows: 3
+      cols: 3
+      row_spacing: 5
+      col_spacing: 5
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 11
+      rows: 4
+      cols: 2
+      row_spacing: 5
+      col_spacing: 5
+      angle_deg: 0
+  - type: grid
+    params:
+      repeat: 11
+      rows: 2
+      cols: 4
+      row_spacing: 5
+      col_spacing: 5
+      angle_deg: 0
+  - type: line
+    params:
+      repeat: 6
+      n_holes: 8
+      spacing: 5
+      angle_deg: 45
+  - type: line
+    params:
+      repeat: 6
+      n_holes: 7
+      spacing: 5
+      angle_deg: 90
+  - type: line
+    params:
+      repeat: 6
+      n_holes: 8
+      spacing: 5
+      angle_deg: 0
+  - type: line
+    params:
+      repeat: 12
+      n_holes: 5
+      spacing: 5
+      angle_deg: 30
+  - type: line
+    params:
+      repeat: 12
+      n_holes: 5
+      spacing: 5
+      angle_deg: 60
+  - type: rand
+    params:
+      n_holes: 133
+--- 
+# dummy
+idx: 101
+
+metadata:
+  base_dir_path: "data/boards/"
+  target_dir: "dummy/"
+  n_instances: 1
+  unit: mm
+
+board:
+  width: 100.0
+  height: 100.0
+  margin: 10.0
+  min_spacing: 5
+  mounting_holes:
+    enabled: false
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: rand
+    params:
+      n_holes: 50
+--- # dummy
+idx: 111
+
+metadata:
+  base_dir_path: "data/boards/"
+  target_dir: "dummy/"
+  n_instances: 5
+  unit: mm
+
+board:
+  width: 100.0
+  height: 100.0
+  margin: 2
+  min_spacing: 2
+  mounting_holes:
+    enabled: true
+    corners: true
+    center: true
+    edges: true
+
+components:
+  - type: grid
+    params:
+      repeat: 3
+      rows: 5
+      cols: 5
+      row_spacing: 2
+      col_spacing: 2
+      angle_deg: 45
+
+  - type: grid
+    params:
+      repeat: 3
+      rows: 3
+      cols: 3
+      row_spacing: 2
+      col_spacing: 2
+      angle_deg: 0
+
+  - type: grid
+    params:
+      repeat: 2
+      rows: 4
+      cols: 7
+      row_spacing: 2
+      col_spacing: 2
+      angle_deg: 0
+
+  - type: grid
+    params:
+      repeat: 2
+      rows: 8
+      cols: 6
+      row_spacing: 2
+      col_spacing: 2
+      angle_deg: 0
+
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 7
+      spacing: 2
+      angle_deg: 45
+
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 2
+      spacing: 2
+      angle_deg: 90
+
+  - type: line
+    params:
+      repeat: 2
+      n_holes: 6
+      spacing: 2
+      angle_deg: 0
+
+  - type: rand
+    params:
+      n_holes: 30

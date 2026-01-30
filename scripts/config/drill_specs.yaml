@@ -1,0 +1,3 @@
+dist_metric: L2 # L2: Euclidean, L1: Manhattan, Linf: Chebyshev
+x_vel: 100.0
+y_vel: 100.0
